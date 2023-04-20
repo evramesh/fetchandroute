@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.item-image {
+  height: 170px;
+  width: 270px;
+  margin: 10px;
+}
+.avatar {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+}
+.item-container {
+  list-style: none;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  border: 2px solid silver;
+  margin: 3px;
+  border-radius: 8px;
+}
